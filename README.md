@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h3 align="center">A passionate Front End Developer from Mexico</h3>
 
-<!--
-**oscarlh87/oscarlh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **TypeScript and React Native **
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at my portfolio: [https://loyo-hdz.com/](https://loyo-hdz.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **oscar@loyo-hdz.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oscar-loyo-hernandez-18339b255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-loyo-hernandez-18339b255/" height="30" width="40" /></a>
+</p>
