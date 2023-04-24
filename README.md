@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript and React Native **
 
-- 👨‍💻 All of my projects are available at my portfolio: [https://loyo-hdz.com/](https://loyo-hdz.com/)
+- 👨‍💻 All of my projects are available at my portfolio: [http://loyo-hdz.com/](http://loyo-hdz.com/)
 
 - 📫 How to reach me **oscar@loyo-hdz.com**
 
